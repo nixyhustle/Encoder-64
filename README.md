@@ -1,4 +1,4 @@
-# Encoder64
+# Encoder-64
 
 Python program to manually encode using base64.
 
